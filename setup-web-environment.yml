@@ -1,4 +1,4 @@
-- hosts: awx
+- hosts: all
   become: yes
   user: vagrant
   roles:
