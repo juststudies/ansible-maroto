@@ -5,7 +5,11 @@
   tasks:
   - name: Creating an empty file
     file:
+<<<<<<< HEAD
       path: "/tmp/testawx"
+=======
+      path: "/tmp/testeawx"
+>>>>>>> eaa12ec41e989e1eeb2964623421d3a5cebced69
       state: touch
 
   

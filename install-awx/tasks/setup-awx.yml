@@ -1,3 +1,9 @@
 ---
+<<<<<<< HEAD
 - name: Install awx
   command: ansible-playbook -i /tmp/awx/installer/inventoryng /tmp/awx/installer/install.yml
+=======
+
+- name: Install awx
+  command: ansible-playbook -i /tmp/awx/installer/inventoryng /tmp/awx/installer/install.yml
+>>>>>>> eaa12ec41e989e1eeb2964623421d3a5cebced69
